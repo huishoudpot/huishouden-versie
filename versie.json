@@ -1,31 +1,13 @@
 {
   "app": "huishouden",
-  "versie": "2.11",
+  "versie": "2.12",
   "datum": "2026-11-18",
   "nieuw": [
     {
-      "titel": "Overal hetzelfde getal"
+      "titel": "Koppel je eigen bank"
     },
     {
-      "titel": "Rustiger en beter te raken"
-    },
-    {
-      "titel": "Van salaris tot salaris"
-    },
-    {
-      "titel": "Eén bedrag voor eind van de maand"
-    },
-    {
-      "titel": "Vaste lasten weer een eigen tabblad"
-    },
-    {
-      "titel": "Inzicht rekent als Overzicht"
-    },
-    {
-      "titel": "Overzicht: deze maand"
-    },
-    {
-      "titel": "Inzicht: als je zo doorgaat"
+      "titel": "Werkt iets niet goed met jouw bank?"
     }
   ]
 }
