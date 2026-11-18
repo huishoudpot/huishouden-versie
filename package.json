@@ -1,0 +1,6 @@
+{
+  "name": "huishouden-versie",
+  "private": true,
+  "description": "Versiekanaal van de huishouden-app: alleen versie.json",
+  "scripts": { "test": "node controleer.mjs" }
+}
